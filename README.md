@@ -26,3 +26,5 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mei10-0403)](https://github.com/mei10-0403/github-readme-stats)
