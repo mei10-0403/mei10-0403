@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mei10-0403)](https://github.com/mei10-0403/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mei10-0403&count_private=true)
