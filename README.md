@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/mei10-0403">
     <img src="https://komarev.com/ghpvc/?username=mei10-0403" alt="mei10-0403" />
   </a>
-  <a href="http://twitter.com/https://twitter.com/mmatsumoFinatxt">
+  <a href="http://twitter.com/https://twitter.com/mmatsumoF1natxt">
     <img height="20" src="https://img.shields.io/twitter/follow/mmatsumo?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/yutkat">
