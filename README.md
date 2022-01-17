@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mei10-0403&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mei10-0403)](https://github.com/mei10-0403/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mei10-0403)](https://github.com/ryo-ma/github-profile-trophy)
