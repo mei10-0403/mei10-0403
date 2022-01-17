@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mei10-0403&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
