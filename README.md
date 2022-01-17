@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=mei10-0403)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mei10-0403&theme=vue)
 
 
 
